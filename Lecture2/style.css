@@ -1,0 +1,9 @@
+.container{
+    max-width: 95vw;
+    padding: 2 rem 1rem;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+}
